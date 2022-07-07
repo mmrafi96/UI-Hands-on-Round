@@ -1,0 +1,23 @@
+.product_info {
+    display: flex;
+}
+h3 {
+    margin: 20px ;
+}
+.product_info img {
+    width: 500px;
+    height: 500px;
+}
+.product_detail {
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 50%;
+} 
+
+.product_detail p {
+    margin-top: 30px;
+}
+.rating {
+    display: flex;
+    align-items: center;
+}
